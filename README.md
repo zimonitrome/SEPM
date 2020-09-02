@@ -1,7 +1,7 @@
 # SEPM
 
-Simon Arvidsson: arsi1632@student.ju.se
+Robert Danilovic: daro1737@student.ju.se
 
-Jonatan Flyckt: fljo1589@student.ju.se
+Fredric Lundberg: anfr16lp@student.ju.se
 
-Max Pettersson: pema16bu@student.ju.se
+Anton KArlsson: kaan17ak@student.ju.se
